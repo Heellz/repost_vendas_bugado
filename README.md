@@ -25,7 +25,7 @@ Repostei com algumas informações para ajudar pessoas que precisam de ajuda par
 Agora, caso você ja tenha conta, abra o [**Mercado Pago Developers**](https://mercadopago.com/developers/panel) e crie sua aplicação.
 
 - Vá ao "Credenciais de produção"
-- Copiei o AccessToken 
+- Copie o AccessToken 
 - coloque no **config.json** onde está **"accessToken": "..."**
 
 ### Token do bot:
