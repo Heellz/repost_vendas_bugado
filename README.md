@@ -26,7 +26,7 @@ Agora, caso você ja tenha conta, abra o [**Mercado Pago Developers**](https://m
 
 - Vá ao "Credenciais de produção"
 - Copiei o AccessToken 
-- coloque no **config.json** onde está **""accessToken": "..."**
+- coloque no **config.json** onde está **"accessToken": "..."**
 
 ### Token do bot:
 - Logue com sua conta do discord no web, aperte em [**Token Bot**](https://discord.com/developers)
