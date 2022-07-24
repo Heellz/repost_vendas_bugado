@@ -15,7 +15,7 @@ Repostei com algumas informações para ajudar pessoas que precisam de ajuda par
 # Tutorial
 
 ### Primeiramente:
-- BAIXE O BOT, tanto faz se for daqui ou do post do [dznwtf](https://github.com/dznwtf/Bot-de-vendas)
+- BAIXE O BOT, [dznwtf](https://github.com/dznwtf/Bot-de-vendas)
 
 ### Mercado Pago:
 - Mercado Pago (A forma de pagamento usado no bot) **NÃO TEM OUTRA FORMA DE PAGAMENTO**
